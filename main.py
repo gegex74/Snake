@@ -4,8 +4,6 @@ from food import Food
 from score_board import Scoreboard
 import time
 
-new = "stuff"
-
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor("black")
